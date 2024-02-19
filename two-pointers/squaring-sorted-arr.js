@@ -46,7 +46,7 @@ function bruteForceSolution(arr) {
 }
 
 /**
- * 
+ * Insert biggest square first at the END of the output array.
  * @param {number[]} arr 
  * @returns {number[]} 
  */
